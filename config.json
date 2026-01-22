@@ -1,0 +1,25 @@
+{
+  "length_score": {
+    "80": 10,
+    "150": 15,
+    "300": 20
+  },
+  "length_bonus_threshold": 200,
+  "budget": {
+    "medium": 100,
+    "medium_points": 10,
+    "high": 500,
+    "high_points": 20
+  },
+  "urgency_keywords": ["紧急", "今天", "尽快", "马上"],
+  "urgency_points": 10,
+  "category_weights": {
+    "劳动": 8,
+    "合同": 6,
+    "婚姻": 6,
+    "交通事故": 5,
+    "刑事": 10
+  },
+  "quality_keywords": ["合同", "证据", "欠款", "赔偿", "仲裁", "起诉"],
+  "quality_points_per_hit": 2
+}
